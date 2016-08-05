@@ -1,0 +1,34 @@
+_repo: The-Philosophy-of-the-Plays-of-Shakspere-Unfolded_8207
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+creator:
+  author:
+    agent_name: Bacon, Delia Salter
+    birthdate: 1811
+    deathdate: 1859
+    gutenberg_agent_id: '2389'
+    url: http://www.gutenberg.org/2009/agents/2389
+    wikipedia: http://en.wikipedia.org/wiki/Delia_Bacon
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8207'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship -- Baconian theory'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Philosophy'
+- GITenberg
+title: The Philosophy of the Plays of Shakspere Unfolded
+url: http://www.gutenberg.org/ebooks/8207
