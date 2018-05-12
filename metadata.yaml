@@ -1,5 +1,5 @@
 _repo: The-Philosophy-of-the-Plays-of-Shakspere-Unfolded_8207
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Hawthorne, Nathaniel
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '28'
     url: http://www.gutenberg.org/2009/agents/28
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bacon, Delia Salter
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2389
     wikipedia: http://en.wikipedia.org/wiki/Delia_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8207#The-Philosophy-of-the-Plays-of-Shakspere-Unfolded
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
